@@ -1,1 +1,1 @@
-# Figure-Area-Library
+Write a library in C# for delivery to external customers that can calculate the area of a circle by radius and a triangle on three sides. The ease of adding a new shape class and the ability to calculate the area of a shape without knowing the type of shape in compile-time will be evaluated.
