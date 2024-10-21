@@ -1,0 +1,28 @@
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\bin\Debug\net8.0\контрольная.exe
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\bin\Debug\net8.0\контрольная.deps.json
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\bin\Debug\net8.0\контрольная.runtimeconfig.json
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\bin\Debug\net8.0\контрольная.dll
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\bin\Debug\net8.0\контрольная.pdb
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.AssemblyInfoInputs.cache
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.AssemblyInfo.cs
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.dll
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\obj\Debug\net8.0\refint\контрольная.dll
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.pdb
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.genruntimeconfig.cache
+D:\Visual Studio 2010\biduk\контрольная\контрольная\контрольная\obj\Debug\net8.0\ref\контрольная.dll
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\bin\Debug\net8.0\контрольная.exe
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\bin\Debug\net8.0\контрольная.deps.json
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\bin\Debug\net8.0\контрольная.runtimeconfig.json
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\bin\Debug\net8.0\контрольная.dll
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\bin\Debug\net8.0\контрольная.pdb
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.AssemblyInfo.cs
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.dll
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\obj\Debug\net8.0\refint\контрольная.dll
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.pdb
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\obj\Debug\net8.0\контрольная.genruntimeconfig.cache
+C:\Users\User\Desktop\МИДиС\контрольная\контрольная\контрольная\контрольная\obj\Debug\net8.0\ref\контрольная.dll
